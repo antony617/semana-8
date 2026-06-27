@@ -1,0 +1,6 @@
+
+1. Implementar autenticación de dos factores.
+2. Cifrar la información almacenada y transmitida.
+3. Supervisar la actividad de los usuarios.
+4. Realizar copias de seguridad periódicas.
+5. Capacitar a los miembros sobre buenas prácticas digitales.

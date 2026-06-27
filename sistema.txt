@@ -1,0 +1,15 @@
+Qué información muestra cada comando.
+
+Respuesta:
+1. uname -a: MINGW64_NT-10.0-26200 SergioRueda 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+2. whoami: sergi
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+
+Respuesta:Conocer la información del sistema al administrar un servidor es útil porque permite tener control total 
+sobre los recursos y el estado de la máquina, lo que se traduce en mayor seguridad, estabilidad y eficiencia. Al 
+saber cuánta memoria, CPU y almacenamiento están disponibles, el administrador puede anticipar problemas de rendimiento 
+y evitar caídas inesperadas. Además, conocer las versiones de software y parches instalados ayuda a cerrar vulnerabilidades 
+y mantener el servidor protegido frente a ataques. También facilita la resolución rápida de fallos, ya que los datos del 
+sistema permiten identificar la causa exacta de un error sin perder tiempo en suposiciones. En conjunto, esta información 
+es la base para garantizar que los servicios alojados en el servidor funcionen de manera continua, segura y confiable.
